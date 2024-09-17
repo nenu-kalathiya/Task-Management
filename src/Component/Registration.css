@@ -1,0 +1,13 @@
+.registration-form .input-box{
+    width: 100%;
+    padding: 8px;
+    background-color: transparent;
+}
+
+.registration-form .btn{
+     width: 50%;
+     margin: 15px;
+     padding: 8px;
+     border-radius: 0;
+     background-color: #3db749;
+}
